@@ -10,7 +10,7 @@ Doing classical precision astronomy with webcams and observatory site monitors.
 
 - David W. Hogg (NYU) (MPIA)
 
-## Thanks for help go to
+### Acknowledgements
 
 - Dan Foreman-Mackey (NYU)
 - Markus Poessel (MPIA / HDA)
